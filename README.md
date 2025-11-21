@@ -16,4 +16,4 @@ A collection of Laravel practice projects built during my learning journey. This
 
 Each folder contains a small learning lab or revision project. These are **not production applications** — they are experiments created to practice and reinforce Laravel concepts and tooling.
 
-**What this repo will include:** Over **50 Laravel projects** and **solutions to 150+ LeetCode problems**, purely as a collection of my learning experiments. Everything here is open-source for anyone to explore, but don’t expect full production-ready apps with fancy features.
+**What this repo will include:** Over **45 Laravel projects** and **solutions to 90+ LeetCode problems**, purely as a collection of my learning experiments. Everything here is open-source for anyone to explore, but don’t expect full production-ready apps with fancy features.
